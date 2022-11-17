@@ -29,7 +29,7 @@ const Footer = () => {
           style={{ height: 25, width: 25, margin: 1 }}
         />
         <SocialIcon
-          url="https://whatsapp.com"
+          url="https://wa.me/07033418551"
           style={{ height: 25, width: 25, margin: 1 }}
         />
       </div>

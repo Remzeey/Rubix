@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Homeland home page</title>
+        <title>Maximum rubix home page</title>
       </Head>
       <div className="text-2xl mt-0 text-center h-96 font-extrabold text-blue-900 bg-cyan-600 ">
         MAXIMUM RUBIX
